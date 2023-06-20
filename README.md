@@ -4,8 +4,6 @@ Hi 👋 My name is Anastasia Garanina
 Junior Data Scientist
 ---------------------
 
-* ✉️  You can contact me at [aegaraina@edu.hse.ru](mailto:aegaraina@edu.hse.ru)
-
 ### Skills
 
 
